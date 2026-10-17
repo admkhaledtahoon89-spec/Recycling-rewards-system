@@ -14,20 +14,13 @@
 
 # 
 
-# | Name | ID | Role | GitHub Username |
-
-# | --- | --- | --- | --- |
-
-# | آدم خالد شعبان | 1202540572 | Team Leader | @admkhaledtahoon89-spec |
-
-# | عمر جمال سعيد سطوحي | 1202540787 | Member | @Omargamalsaeedstohy-ops |
-
-# | عبدالرحمن محمود إبراهيم فودة | 1202540720 | Member | @abdelrahmanfoda2006 |
-
-# | احمد فريد محمد ابو فرو | 1202540547 | Member | @ahmedabofarw-debug |
-
-# | عبدالله صلاح محمد البدوي | 1202540756 | Member | @Abdulla-14-8-2007 |
-
+| Name | ID | Role | GitHub Username |
+| :--- | :---: | :---: | :--- |
+| أدم خالد شعبان | 1202540572 | Team Leader | [@admkhaledtahoon89-spec](https://github.com/admkhaledtahoon89-spec) |
+| عمر جمال سعيد سطوحي | 1202540787 | Member | [@Omargamalsaeedstohy-ops](https://github.com/Omargamalsaeedstohy-ops) |
+| عبدالرحمن محمود إبراهيم فودة | 1202540720 | Member | [@abdelrahmanfoda2006](https://github.com/abdelrahmanfoda2006) |
+| احمد فريد محمد ابو فرو | 1202540547 | Member | [@ahmedabofarw-debug](https://github.com/ahmedabofarw-debug) |
+| عبدالله صلاح محمد البدوي | 1202540756 | Member | [@Abdulla-14-8-2007](https://github.com/Abdulla-14-8-2007) |
 # 
 
 # \---
@@ -41,4 +34,3 @@
 # \- `database/`: Database schema and SQL scripts.
 
 # \- `docs/`: Project documentation and UML diagrams.
-
